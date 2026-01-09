@@ -1,0 +1,2 @@
+In this personal portfolio project, I used SQL to organize and analyze global COVID-19 data from Our World in Data (https://ourworldindata.org/covid-deaths), examining confirmed cases and deaths across different locations, dates, and population sizes.
+I then translated my findings into an interactive dashboard using Tableau Public:  https://public.tableau.com/app/profile/haneul.woo/viz/2020-2021COVIDDashboardProject/Dashboard1?publish=yes 
